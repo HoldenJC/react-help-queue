@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 function Ticket(props){
   return (
     <div>
-        <style global jsx>{`
+      <style global jsx>{`
           div {
             background-color: red;
           }
